@@ -1,5 +1,5 @@
 // Write your solution here!
-const append = []
+const append = [""]
 
 
 append.push("Odie");
